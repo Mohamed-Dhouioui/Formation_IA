@@ -18,7 +18,12 @@ Cette repertoire est crée pour partager les codes qu'on a vu dans la formation.
 ## Version 1.0 contient ces données:
 
 ### Notebooks:
-- **Model_de_regression_1.ipynb**
+- **Model_de_regression_1.ipynb** : un notebook qui vous guide dans 
+  la création et l'évaluation d'un model de regression linéaire sur 'Housing Dataset'
+- **Model_de_classification_1.ipynb** un notebook qui vous guide dans 
+  la création et l'évaluation d'un model de classification sur 'mobile_price Dataset'
 
 ### Datasets:
 - **Housing.csv**
+- **mobile_price_train.csv**
+- **mobile_test_price.csv**
