@@ -1,21 +1,21 @@
 # Formation_IA
-Cette repertoire est crée pour partager les codes qu'on a vu dans la formation. Et elle sera mis à jours après chaque séance.
+Cette repertoire est créée pour partager les codes qu'on a vu dans la formation. Et elle sera mise à jour après chaque séance.
 
-**Pour télécharger cette répertoire veuillez exécuter le code suivant sur un terminal:**
+**Pour télécharger cette répertoire veuillez exécuter le code suivant sur un terminal :**
 
 `git clone https://github.com/Mohamed-Dhouioui/Formation_IA.git`
 
 **Pour l'installation des bibliothèques veuillez utiliser ce syntax**
 `pip install nom_bibliothèque`
 
-**Les bibliothèques à installer sont:**
+**Les bibliothèques à installer sont :**
 `numpy`
 `pandas`
 `matplotlib`
 `seaborn`
 `scikit-learn`
 
-## Version 1.0 contient ces données:
+## Version 1.0 contient ces données :
 
 ### Notebooks:
 - **Model_de_regression_1.ipynb** : un notebook qui vous guide dans 
