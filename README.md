@@ -22,6 +22,8 @@ Cette repertoire est crée pour partager les codes qu'on a vu dans la formation.
   la création et l'évaluation d'un model de regression linéaire sur 'Housing Dataset'
 - **Model_de_classification_1.ipynb** un notebook qui vous guide dans 
   la création et l'évaluation d'un model de classification sur 'mobile_price Dataset'
+- **Model_de_classification_SVM.ipynb** un notebook qui vous guide dans 
+  la création et l'évaluation d'un model de classification SVM sur la base des fleurs 'IRIS'
 
 ### Datasets:
 - **Housing.csv**
