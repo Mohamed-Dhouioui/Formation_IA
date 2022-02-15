@@ -4,7 +4,7 @@ Cette repertoire est créée pour partager les codes qu'on a vu dans la formatio
 
 La manière la plus simple de visualiser tous les notebook est d'utiliser Nbviewer. 
 
-* <a href="https://nbviewer.jupyter.org/github.com/Mohamed-Dhouioui/Formation_IA"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
+* <a href="https://nbviewer.jupyter.org/github.com/Mohamed-Dhouioui/Formation_IA/tree/main/Notebooks"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 
 Si vous voulez manipuler les codes, vous pouvez utiliser les plateformes suivantes : 
 
