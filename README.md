@@ -1,5 +1,14 @@
 # Formation_IA
 Cette repertoire est créée pour partager les codes qu'on a vu dans la formation. Et elle sera mise à jour après chaque séance.
+## Visualiser et exécuter les Notebooks
+
+La manière la plus simple de visualiser tous les notebook est d'utiliser Nbviewer. 
+
+* <a href="https://nbviewer.jupyter.org/github.com/Mohamed-Dhouioui/Formation_IA"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
+
+Si vous voulez manipuler les codes, vous pouvez utiliser les plateformes suivantes : 
+
+* <a href="https://colab.research.google.com/github.com/Mohamed-Dhouioui/Formation_IA" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 **Pour télécharger cette répertoire veuillez exécuter le code suivant sur un terminal :**
 
@@ -20,12 +29,16 @@ Cette repertoire est créée pour partager les codes qu'on a vu dans la formatio
 ### Notebooks:
 - **Model_de_regression_1.ipynb** : un notebook qui vous guide dans 
   la création et l'évaluation d'un model de regression linéaire sur 'Housing Dataset'
+- **Model_de_regression_SVM.ipynb** un notebook qui vous guide dans 
+  la création et l'évaluation d'un model de régression SVM sur la base des fleurs 'Housing Dataset'
 - **Model_de_classification_1.ipynb** un notebook qui vous guide dans 
   la création et l'évaluation d'un model de classification sur 'mobile_price Dataset'
 - **Model_de_classification_SVM.ipynb** un notebook qui vous guide dans 
   la création et l'évaluation d'un model de classification SVM sur la base des fleurs 'IRIS'
-
+- **Model_de_classification_DT.ipynb** un notebook qui vous guide dans 
+  la création et l'évaluation d'un model de classification Decision Tree sur la base 'CAR' de 'OpenML'
 ### Datasets:
 - **Housing.csv**
 - **mobile_price_train.csv**
 - **mobile_test_price.csv**
+- **Car version_2 de OpenML**
