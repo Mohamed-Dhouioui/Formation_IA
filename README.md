@@ -30,7 +30,7 @@ Si vous voulez manipuler les codes, vous pouvez utiliser les plateformes suivant
 - **Model_de_regression_1.ipynb** : un notebook qui vous guide dans 
   la création et l'évaluation d'un model de regression linéaire sur 'Housing Dataset'
 - **Model_de_regression_SVM.ipynb** un notebook qui vous guide dans 
-  la création et l'évaluation d'un model de régression SVM sur la base des fleurs 'Housing Dataset'
+  la création et l'évaluation d'un model de régression SVM sur la base 'Housing Dataset'
 - **Model_de_classification_1.ipynb** un notebook qui vous guide dans 
   la création et l'évaluation d'un model de classification sur 'mobile_price Dataset'
 - **Model_de_classification_SVM.ipynb** un notebook qui vous guide dans 
