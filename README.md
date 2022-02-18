@@ -31,14 +31,22 @@ Si vous voulez manipuler les codes, vous pouvez utiliser les plateformes suivant
   la création et l'évaluation d'un model de regression linéaire sur 'Housing Dataset'
 - **Model_de_regression_SVM.ipynb** un notebook qui vous guide dans 
   la création et l'évaluation d'un model de régression SVM sur la base des fleurs 'Housing Dataset'
+- **Model_de_regression_RF.ipynb** : un notebook qui vous guide dans 
+  la création et l'évaluation d'un model de regression Random Forest sur la base 'machine_cpu' de 'OpenML'
 - **Model_de_classification_1.ipynb** un notebook qui vous guide dans 
   la création et l'évaluation d'un model de classification sur 'mobile_price Dataset'
 - **Model_de_classification_SVM.ipynb** un notebook qui vous guide dans 
   la création et l'évaluation d'un model de classification SVM sur la base des fleurs 'IRIS'
 - **Model_de_classification_DT.ipynb** un notebook qui vous guide dans 
   la création et l'évaluation d'un model de classification Decision Tree sur la base 'CAR' de 'OpenML'
+- **Model_de_classification_RF.ipynb** un notebook qui vous guide dans 
+  la création et l'évaluation d'un model de classification Random Forest sur la base 'electricity' de 'OpenML'
+- **ensemble_models.ipynb** un notebook qui vous guide dans 
+  la création et l'évaluation des models d'apprentissage d'ensemble 'Ensemble Learning'
 ### Datasets:
 - **Housing.csv**
 - **mobile_price_train.csv**
 - **mobile_test_price.csv**
 - **Car version_2 de OpenML**
+- **machine_cpu de OpenML**
+- **electricity de OpenML**
