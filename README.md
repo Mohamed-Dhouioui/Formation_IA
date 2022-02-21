@@ -27,6 +27,7 @@ Si vous voulez manipuler les codes, vous pouvez utiliser les plateformes suivant
 ## Version 1.0 contient ces données :
 
 ### Notebooks:
+
 - **Model_de_regression_1.ipynb** : un notebook qui vous guide dans 
   la création et l'évaluation d'un model de regression linéaire sur 'Housing Dataset'
 - **Model_de_regression_SVM.ipynb** un notebook qui vous guide dans 
@@ -43,6 +44,11 @@ Si vous voulez manipuler les codes, vous pouvez utiliser les plateformes suivant
   la création et l'évaluation d'un model de classification Random Forest sur la base 'electricity' de 'OpenML'
 - **ensemble_models.ipynb** un notebook qui vous guide dans 
   la création et l'évaluation des models d'apprentissage d'ensemble 'Ensemble Learning'
+- **Model_ANN_regression.ipynb** un notebook qui vous guide dans 
+  la création et l'évaluation d'un réseau de neurone artificiel pour la regression
+- **Model_ANN_classification.ipynb** un notebook qui vous guide dans 
+  la création et l'évaluation d'un réseau de neurone artificiel pour la classification binaire et multiclass
+
 ### Datasets:
 - **Housing.csv**
 - **mobile_price_train.csv**
@@ -50,3 +56,6 @@ Si vous voulez manipuler les codes, vous pouvez utiliser les plateformes suivant
 - **Car version_2 de OpenML**
 - **machine_cpu de OpenML**
 - **electricity de OpenML**
+- **Fashion Mnist de scikit-learn**
+- **Breast cancer de scikit-learn**
+- **Forest Fires de UCI**
