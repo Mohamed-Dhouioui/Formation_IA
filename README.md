@@ -48,6 +48,8 @@ Si vous voulez manipuler les codes, vous pouvez utiliser les plateformes suivant
   la création et l'évaluation d'un réseau de neurone artificiel pour la regression
 - **Model_ANN_classification.ipynb** un notebook qui vous guide dans 
   la création et l'évaluation d'un réseau de neurone artificiel pour la classification binaire et multiclass
+- **Model_CNN_classification.ipynb** un notebook qui vous guide dans 
+  la création et l'évaluation d'un réseau de neurone convolutionnel pour la classification multiclass sur la base CIFAR-10
 
 ### Datasets:
 - **Housing.csv**
@@ -59,3 +61,4 @@ Si vous voulez manipuler les codes, vous pouvez utiliser les plateformes suivant
 - **Fashion Mnist de scikit-learn**
 - **Breast cancer de scikit-learn**
 - **Forest Fires de UCI**
+- **CIFAR-10**
