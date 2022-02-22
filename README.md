@@ -50,6 +50,8 @@ Si vous voulez manipuler les codes, vous pouvez utiliser les plateformes suivant
   la création et l'évaluation d'un réseau de neurone artificiel pour la classification binaire et multiclass
 - **Model_CNN_classification.ipynb** un notebook qui vous guide dans 
   la création et l'évaluation d'un réseau de neurone convolutionnel pour la classification multiclass sur la base CIFAR-10
+- **Model_CNN_de_classification_Data_augmentation.ipynb** un notebook qui vous guide dans 
+  la création et l'évaluation d'un réseau de neurone convolutionnel avec l'augmentation de données pour la classification binaire sur la base Cat/Dog
 
 ### Datasets:
 - **Housing.csv**
@@ -62,3 +64,4 @@ Si vous voulez manipuler les codes, vous pouvez utiliser les plateformes suivant
 - **Breast cancer de scikit-learn**
 - **Forest Fires de UCI**
 - **CIFAR-10**
+- **Cat/Dog**
